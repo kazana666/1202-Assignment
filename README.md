@@ -72,7 +72,12 @@ for the program to be compiled and run properly
 Down below is a visual demonstration of how to make the program work in its best capacity, also demonstrating the result/outcome from the
 text input given to it showing the effective functionality of the program.
 
+1) First we see how to navigate into the desired program so as to execute the program
 ![Screenshot (442)](https://user-images.githubusercontent.com/62666777/161659373-19bcc958-010a-4b66-8c31-9ec5db0617a2.png)
+
+2) Next we see how to execute the program, the results we obtain after giving an input
+![Screenshot (445)](https://user-images.githubusercontent.com/62666777/161659881-86756369-b588-4fe3-a53f-d0bf39c7348e.png)
+
 
 
 
