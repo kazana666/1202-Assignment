@@ -72,7 +72,8 @@ for the program to be compiled and run properly
 Down below is a visual demonstration of how to make the program work in its best capacity, also demonstrating the result/outcome from the
 text input given to it showing the effective functionality of the program.
 
-![image](https://user-images.githubusercontent.com/62666777/161659200-f998a666-2195-42c6-922b-428ae0979a4f.png)
+![Screenshot (442)](https://user-images.githubusercontent.com/62666777/161659373-19bcc958-010a-4b66-8c31-9ec5db0617a2.png)
+
 
 
 ## Tech Stack
