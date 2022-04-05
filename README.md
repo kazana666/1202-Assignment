@@ -78,6 +78,19 @@ text input given to it showing the effective functionality of the program.
 2) Next we see how to execute the program, the results we obtain after giving an input
 ![Screenshot (445)](https://user-images.githubusercontent.com/62666777/161659881-86756369-b588-4fe3-a53f-d0bf39c7348e.png)
 
+3) We can see clearly that after the computer asks for input:
+  ```bash
+  Enter the mobile data to check for mobile numbers in the format ddd-ddd-dddd
+```
+ and we give the text input it runs it through the code so as to give out the output:
+ 
+ ```bash
+  Phone number found: 716-666-8978
+  Phone number found: 666-453-1234
+  That was all
+``
+and finally terminates
+
 
 
 
